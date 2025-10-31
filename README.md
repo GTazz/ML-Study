@@ -1,3 +1,3 @@
 # ML-Study
 
-Personal playground to study Machine Learning in Python with TensorFlow.
+See notebook with all notes: [Click here](Notebook.ipynb)
