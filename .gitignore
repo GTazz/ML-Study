@@ -61,6 +61,7 @@ Thumbs.db
 desktop.ini
 
 # Logs and temp files
+temp/
 *.log
 *.pot
 *.tmp
